@@ -2,7 +2,7 @@
 
 This document lists current maintainers in the Model Context Protocol project.
 
-**Last updated:** October 1, 2026
+**Last updated:** October 28, 2026
 
 ## Lead Maintainers
 
@@ -92,10 +92,14 @@ This document lists current maintainers in the Model Context Protocol project.
 ### Rust SDK
 
 - [Alex Hancock](https://github.com/alexhancock)
-- [Michael Bolin](https://github.com/bolinfest)
 - [Bradley Axen](https://github.com/baxen)
+- [Camille Lawrence](https://github.com/gocamille)
+- [Connor Peet](https://github.com/connor4312)
+- [Dale Seo](https://github.com/DaleSeo)
 - [Jack Amadeo](https://github.com/jamadeo)
+- [jokemanfire](https://github.com/jokemanfire)
 - [Michael Neale](https://github.com/michaelneale)
+- [Thomas Sarlandie](https://github.com/tsarlandie-oai)
 
 ### PHP SDK
 
